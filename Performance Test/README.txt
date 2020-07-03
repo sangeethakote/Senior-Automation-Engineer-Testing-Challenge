@@ -5,7 +5,7 @@ Import the existing jmx file in to Jmeter
 
 Details :
 Add Thread Group
-   - Number of Threads: 100 (Number of users connects to the target website: 100)
+   - Number of Threads: 1000 (Number of users connects to the target website: 1000)
    - Ramp-Up Period: 25
 
 Right-click on Thread Group and select: Add -> Sampler -> HTTP Request
