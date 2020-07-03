@@ -1,0 +1,14 @@
+Sample Bug :
+
+Desc : CART - Unable to add new item to the cart
+
+Priority : High
+
+Summary :
+When tried adding new item to the cart , getting UI error link is broken.
+
+Expected Result :
+Should be able to add the item into the cart
+
+Actual Result :
+UI Link broken error.
